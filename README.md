@@ -1,7 +1,5 @@
 # PixelCrypt
 
-# Image Steganography
-
 This project implements **Image Steganography** using the **Least Significant Bit (LSB)** technique to hide text messages within images. It allows users to encode secret messages into an image file and decode them.
 
 ## Overview
