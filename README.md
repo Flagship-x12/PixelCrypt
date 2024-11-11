@@ -2,6 +2,11 @@
 
 This project implements **Image Steganography** using the **Least Significant Bit (LSB)** technique to hide text messages within images. It allows users to encode secret messages into an image file and decode them.
 
+
+![Black And White Modern Typographic Simple Virus Apparel Logo_20241111_172520_0000.png](https://github.com/user-attachments/assets/b00bae80-1bdf-4dd6-8183-e9e3c6b4df8d)
+
+
+
 ## Overview
 Steganography is a method of hiding secret data within an ordinary, non-secret object, like an image. This project uses Java to embed and extract messages from images, enhancing privacy by obscuring the fact that communication is taking place.
 
